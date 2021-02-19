@@ -1,0 +1,68 @@
+body {
+    background-color: aliceblue;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 12px;
+
+    border-radius: 12px;
+    color: royalblue;
+    font-size: 18px;
+}
+
+a {
+    margin-left: 20px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-family: "Century Gothic";
+    color: navy;
+}
+
+h3 {
+    display: flex;
+    font-size: 25px;
+    font-family: "Droid Sans";
+    color: indigo;
+    justify-content: center;
+}
+
+p {
+    display: flex;
+    font-size: 19px;
+    font-family: "Agency FB";
+    justify-content: center;
+}
+#Intro {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+img {
+    margin-left: 550px;
+    border: solid;
+}
+
+#Uddannelser {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 20px;
+
+}
+
+li {
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    margin-bottom: 2px;
+    font-family: "Times New Roman";
+    font-style: italic;
+}
